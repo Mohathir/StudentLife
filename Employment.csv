@@ -1,0 +1,310 @@
+Occupation_Name,employment.2018,employment.growth,retirements,other.replacement,total.openings,school.leavers,immigration,other.seekers,total.job.seekers,current.labour.market.conditions,future.labour.market.conditions
+All Occupations,18657500,1743800,3859300,957300,6560200,4943900,1696100,19000,6658900,N/A,N/A
+Occupations usually require university education.,3763400,624700,756900,196100,1576900,1431600,324500,-253000,1501900,N/A,N/A
+Occupations usually require college or vocational education or apprenticeship training,6337100,569300,1311100,315600,2195000,1694200,423700,152000,2272700,N/A,N/A
+Occupations usually require secondary school and/or occupation-specific training,4873200,281200,982300,246800,1510000,1239800,503300,-201000,1537900,N/A,N/A
+On-the-job training is usually provided for occupations,1973400,164600,339700,96200,600200,525600,299300,-177000,646500,N/A,N/A
+Management Occupations,1710200,104400,469000,103300,676900,55200,144700,497000,698900,N/A,N/A
+Legislators and senior management,56200,2500,25100,4000,31500,1400,8700,22000,32100,N/A,N/A
+"Business, finance and administration occupations",3255500,177500,797800,166900,1142100,825300,242800,87000,1157300,N/A,N/A
+Natural and applied sciences and related occupations,1588200,229800,311300,78300,618400,544500,205900,-82000,666800,N/A,N/A
+Health occupations,1433100,379600,292000,76000,748000,448600,110700,96000,659400,N/A,N/A
+"Occupations in education, law and social, community and government services",2208700,253100,461200,112100,824600,739000,153200,-70000,824100,N/A,N/A
+"Occupations in art, culture, recreation and sport",578300,57000,91700,30600,179100,202800,40300,-53000,189000,N/A,N/A
+Sales and service occupations,5068400,411200,936900,253600,1601300,1285200,560200,-175000,1667900,N/A,N/A
+"Trades, transport and equipment operators and related occupations",2969100,183700,615100,154000,953600,635700,219000,118000,969700,N/A,N/A
+"Natural resources, agriculture and related production occupations",549700,9000,94300,33000,136000,110700,18400,16000,145800,N/A,N/A
+Occupations in manufacturing and utilities,950100,40800,233600,49500,324400,153200,136300,59000,345800,N/A,N/A
+Legislators and senior management,56200,2500,25100,4000,31500,1400,8700,22000,32100,BALANCE,BALANCE
+Financial managers,67700,6800,20200,3600,30800,4000,6100,23000,33300,BALANCE,BALANCE
+Human resources managers,31200,4300,8900,1500,15000,2000,3000,11000,15700,BALANCE,BALANCE
+"Purchasing managers & Senior managers - health, education, social and community services and membership organizations",13400,200,7800,1000,8900,1000,4800,4000,9400,BALANCE,BALANCE
+"Insurance, real estate and financial brokerage managers",25400,3200,7500,1000,12100,1000,3000,10000,13300,BALANCE,BALANCE
+"Banking, credit and other investment managers",56300,2400,11600,2500,16500,3700,4800,8000,16800,BALANCE,BALANCE
+"Advertising, marketing and public relations managers & Other business services managers",52600,6000,11100,2300,19500,3000,9300,7000,19900,BALANCE,BALANCE
+Managers in communication (except broadcasting),13100,700,400,1000,1900,0,1600,0,2000,BALANCE,BALANCE
+Engineering managers & Architecture and science managers,36700,4200,9000,2000,15200,2000,3300,12000,17800,BALANCE,BALANCE
+Computer and information systems managers,72200,17800,16200,3900,38100,3000,8300,34000,45000,BALANCE,BALANCE
+Managers in health care,31100,6300,11900,2000,20100,1000,1700,19000,22000,BALANCE,BALANCE
+Managers in public administration,49300,4000,15900,2700,22400,1000,0,21000,22300,BALANCE,BALANCE
+Administrators - post-secondary education and vocational training,12500,600,5700,1000,6900,0,1000,5000,7000,BALANCE,BALANCE
+School principals and administrators of elementary and secondary education,29800,700,9200,2000,11600,1000,1000,10000,11900,BALANCE,BALANCE
+"Managers in social, community and correctional services",41600,8500,16500,2800,27600,2000,1100,24000,27800,BALANCE,BALANCE
+Managers in public protection services,5700,100,2000,0,2800,0,0,3000,3000,BALANCE,BALANCE
+"Managers in art, culture, recreation and sport",15400,600,4800,1000,6000,1000,1700,4000,6000,BALANCE,BALANCE
+Corporate sales managers,21500,-100,6000,1000,6900,1000,5300,0,6800,BALANCE,BALANCE
+Retail and wholesale trade managers,324600,-2900,97100,19600,113700,9100,32300,72000,113400,BALANCE,BALANCE
+Restaurant and food service managers,129000,10500,26000,6900,43300,4900,21700,16000,42000,BALANCE,BALANCE
+Accommodation service managers,64500,9100,28700,5900,43300,1200,3000,38000,42800,BALANCE,BALANCE
+"Managers in customer and personal services, n.e.c.",19400,2000,1900,1000,5200,1000,2900,2000,5700,BALANCE,BALANCE
+Construction managers,86600,6900,16600,4000,28000,4000,5000,22000,31000,BALANCE,BALANCE
+Home building and renovation managers,141400,9800,38800,8200,56900,2000,3000,51000,55500,BALANCE,BALANCE
+Facility operation and maintenance managers,33500,1500,8200,2000,11900,1000,2400,9000,11800,BALANCE,BALANCE
+Managers in transportation,23700,2600,2100,1400,6000,0,2000,3000,5800,BALANCE,BALANCE
+Managers in natural resources production and fishing,10500,800,4300,1000,5800,300,800,5000,6000,BALANCE,BALANCE
+"Managers in agriculture, horticulture and aquaculture",156700,-8500,32700,13000,37300,1000,2900,34000,37900,BALANCE,BALANCE
+Managers in manufacturing and utilities,88600,3800,22800,5000,31700,2600,4000,28000,34900,BALANCE,BALANCE
+Financial auditors and accountants,194400,19700,49800,9900,79700,85600,21700,-28000,79600,BALANCE,BALANCE
+Financial and investment analysts,58800,11800,8100,2600,22200,35600,7500,-21000,21600,BALANCE,BALANCE
+"Securities agents, investment dealers and brokers",13600,1200,4100,1000,6200,8400,2000,-4000,6200,BALANCE,BALANCE
+Other financial officers,150800,24000,31900,7900,63800,39200,11100,10000,60800,BALANCE,BALANCE
+Human resources professionals,106700,25000,18700,5500,49100,34400,4200,11000,49500,BALANCE,BALANCE
+Professional occupations in business management consulting,118800,18800,32700,7700,59600,27900,10400,20000,58500,BALANCE,BALANCE
+"Professional occupations in advertising, marketing and public relations",146600,23600,16100,6600,46500,55000,7900,-19000,44300,BALANCE,BALANCE
+"Supervisors, general office and administrative support workers",28200,2500,6900,1300,10600,3000,1000,7000,11000,BALANCE,BALANCE
+"Supervisors, finance and insurance office workers",43400,6100,14200,2000,22600,13500,1900,9000,24700,BALANCE,BALANCE
+"Supervisors, library, correspondence and related information workers; Supervisors, mail and message distribution occupations & Supervisors, supply chain, tracking and scheduling co-ordination occupations",100400,8600,26000,5000,39700,15400,5100,20000,40900,BALANCE,BALANCE
+Administrative officers,189700,14600,67500,9900,91900,54100,15400,25000,94300,BALANCE,BALANCE
+Executive assistants,39500,4100,12300,2000,18600,9400,2000,8000,19400,BALANCE,BALANCE
+Human resources and recruitment officers,34000,5600,4900,1500,12300,18900,3200,-8000,14300,BALANCE,BALANCE
+Property administrators,30700,1100,12000,2000,14900,6900,3500,7000,17300,BALANCE,BALANCE
+Purchasing agents and officers,64000,7300,16700,3600,27600,14800,3000,13000,30300,BALANCE,BALANCE
+Conference and event planners,26200,4000,5000,1000,10100,11600,2000,0,13500,BALANCE,SURPLUS
+"Court officers and justices of the peace & Employment insurance, immigration, border services and revenue officers",53400,9300,13900,2800,25900,10400,1000,17000,28000,BALANCE,BALANCE
+Administrative assistants,217700,-30200,61200,10900,41700,22600,14700,-3000,34700,BALANCE,BALANCE
+Legal administrative assistants,47400,4500,12800,2900,20000,11500,2000,8000,21500,BALANCE,BALANCE
+Medical administrative assistants,72900,11200,15100,4000,30000,8400,2200,15000,25500,BALANCE,BALANCE
+"Court reporters, transcriptionists, records management technician And statistical officers",20800,500,4900,1000,6300,7600,1400,-3000,6100,BALANCE,BALANCE
+Accounting technician and bookkeepers,178800,20300,57600,11900,89600,21500,8300,57000,87000,BALANCE,BALANCE
+"Insurance adjusters and claims examiners; Insurance underwriters; Assessors, valuators and appraisers & Customs, ship and other brokers",73000,5700,12500,3700,21900,19200,2600,0,21800,BALANCE,BALANCE
+General office support workers,195200,-21900,41900,8700,28400,60300,14400,-46000,28600,BALANCE,BALANCE
+Receptionists,160400,-9200,35400,7900,33700,56400,9800,-33000,33300,BALANCE,BALANCE
+Personnel  and Court clerks,10500,300,2500,1000,3300,4000,1000,-2000,3500,BALANCE,BALANCE
+Data entry clerks & Desktop publishing operators and related occupations,34100,-7700,7000,1100,700,13500,3000,-12000,4500,SURPLUS,SURPLUS
+Accounting and related clerks,156600,-5100,35500,7300,37700,33900,12200,-5000,41200,BALANCE,BALANCE
+Payroll clerks,42900,4700,10500,2100,17400,10000,1600,4000,15400,BALANCE,BALANCE
+"Banking, insurance and other financial clerks & Collectors",37200,-6500,9200,2000,4300,17400,3700,-15000,5700,BALANCE,BALANCE
+"Library, correspondence and other clerks",43000,-5500,12700,2000,9500,18900,3300,-13000,9700,SURPLUS,SURPLUS
+"Mail, postal and related workers",33700,1800,11600,2000,15300,3900,1600,10000,15200,BALANCE,BALANCE
+Letter carriers,28800,-3600,6400,1000,4100,2400,1000,1000,4000,BALANCE,BALANCE
+"Couriers, messengers and door-to-door distributors",22800,-200,6800,1000,7700,3000,2000,1000,6700,SURPLUS,SURPLUS
+Shippers and receivers,124100,2900,26100,6200,35400,23000,12100,3000,38200,BALANCE,BALANCE
+Storekeepers and partspersons; Production logistics co-ordinators & Purchasing and inventory control workers,55400,-200,13200,3000,15700,17800,8300,-9000,17500,BALANCE,BALANCE
+Dispatchers & Transportation route and crew schedulers,41300,4800,6600,2000,13400,11200,2100,-1000,12600,BALANCE,BALANCE
+Physical science professionals,29000,2100,7500,1200,11000,16700,5200,-10000,11800,BALANCE,BALANCE
+Life science professionals,26300,3000,3700,1000,8100,13400,3000,-9000,7800,BALANCE,BALANCE
+Civil engineers,54400,6300,10000,2900,18900,30000,9600,-13000,26400,BALANCE,SURPLUS
+Mechanical engineers,38200,3400,6400,2000,11300,19300,8300,-14000,13100,SHORTAGE,Shortage
+Electrical and electronics engineers,40100,3500,7800,2000,13400,17000,8900,-9000,16500,BALANCE,BALANCE
+Chemical engineers,9000,700,2300,700,3700,5000,2000,-2000,5500,BALANCE,SURPLUS
+Industrial and manufacturing engineers & Metallurgical and materials engineers,18800,800,3600,1000,5000,7600,3900,-5000,6600,BALANCE,BALANCE
+Mining engineers; Geological engineers & Petroleum engineers,22000,600,3500,1000,5100,12900,3000,-6000,10200,BALANCE,SURPLUS
+"Aerospace engineers & Other professional engineers, n.e.c.",33700,3900,8600,2000,14100,14800,2500,-6000,10700,BALANCE,SHORTAGE
+Computer engineers (except software engineers and designers),23000,4300,4500,1000,10400,8500,5900,-2000,12300,SHORTAGE,Shortage
+Architects,18300,2100,4000,1000,7200,10100,3300,-6000,7800,BALANCE,BALANCE
+Landscape architects; Urban and land use planners & Land surveyors,14100,-600,2500,1000,2300,8600,2000,-9000,2000,BALANCE,BALANCE
+"Mathematicians, statisticians and actuaries",15500,2000,1500,1000,4000,6200,2000,-4000,4300,SHORTAGE,Shortage
+Information systems analysts and consultants,216000,52700,49400,11000,113000,53800,34200,11000,98600,SHORTAGE,SHORTAGE
+Database analysts and data administrators,36300,8700,7600,2000,18100,12100,4500,0,16700,SHORTAGE,Shortage
+Software engineers and designers,57600,14800,9600,2900,27500,25200,16500,-18000,24000,SHORTAGE,SHORTAGE
+Computer programmers and interactive media developers,167900,32300,24600,7300,64200,70700,23700,-19000,75800,SHORTAGE,Shortage
+Web designers and developers,35700,5900,3600,1400,11000,14900,5100,-6000,14100,BALANCE,BALANCE
+Technical occupations in physical sciences,33800,2100,3800,1700,7400,14900,4300,-13000,5700,BALANCE,BALANCE
+Biological technologists and technician,10700,1100,1000,0,2200,6200,1000,-5000,2100,BALANCE,BALANCE
+Agricultural and fish products inspectors; Forestry technologists and technician & Conservation and fishery officers,16100,-700,1900,1000,2100,4900,1000,-3000,2100,BALANCE,BALANCE
+Landscape and horticulture technician and specialists,18700,3200,4000,1000,8300,5000,1000,2000,7200,BALANCE,BALANCE
+Civil engineering technologists and technician,23400,2100,4900,1000,7900,12200,1300,-5000,8600,BALANCE,BALANCE
+Mechanical engineering technologists and technician,20100,2400,5000,1000,8600,5000,2000,3000,9500,SHORTAGE,Shortage
+Industrial engineering and manufacturing technologists and technician,19900,2000,5000,1000,8100,5800,2000,1000,8400,BALANCE,BALANCE
+Construction estimators,21400,800,5500,1000,7500,4300,2000,2000,8500,BALANCE,BALANCE
+Electrical and electronics engineering technologists and technician,29800,2800,10100,2000,14800,10200,3000,1000,14000,BALANCE,BALANCE
+Electronic service technician (household and business equipment),61000,6200,14800,3000,23900,14000,4200,5000,23000,BALANCE,BALANCE
+"Industrial instrument technician and mechanics & Aircraft instrument, electrical and avionics mechanics, technician and inspectors",12800,1300,4000,1000,5800,5000,1000,0,6000,BALANCE,BALANCE
+"Technical occupations in architecture, drafting, surveying, geomatics",80700,3400,10100,3600,17200,26400,6800,5000,38300,BALANCE,SURPLUS
+Non-destructive testers and inspection technician; Engineering inspectors and regulatory officers & Inspectors in public and environmental health and occupational health and safety,49500,3500,11000,2000,17000,14300,2300,3000,19800,BALANCE,BALANCE
+Construction inspectors,25300,2100,7600,1300,11000,4000,1000,8000,13000,BALANCE,BALANCE
+Transportation officers and controllers,28200,3900,8700,1500,14000,6600,1000,1000,9200,BALANCE,SHORTAGE
+Computer network technician,55000,7000,8900,2300,18300,17100,8300,-7000,18500,BALANCE,BALANCE
+User support technician & Information systems testing technician,117000,18100,19100,5600,42700,36800,8500,1000,45900,BALANCE,BALANCE
+Nursing co-ordinators and supervisors,34000,12600,11600,2000,26800,3000,700,22000,25800,SHORTAGE,Shortage
+Registered nurses and registered psychiatric nurses,314300,102900,72400,15800,191200,122500,16600,15000,154500,SHORTAGE,SHORTAGE
+Specialist physicians,48500,18400,11100,3100,32500,18000,4900,-3000,20000,SHORTAGE,SHORTAGE
+General practitioners and family physicians,75200,28200,17700,5000,51000,16200,6000,-3000,19500,SHORTAGE,SHORTAGE
+Dentists,26800,4000,6300,2000,12300,7000,1400,-1000,7100,BALANCE,SHORTAGE
+Veterinarians,10800,1000,2000,1000,3600,5000,1000,-1000,4000,BALANCE,BALANCE
+"Optometrists, chiropractors and other health diagnosing and treating professionals",33700,10000,7600,2000,19700,8500,1000,6000,15400,SHORTAGE,SHORTAGE
+Pharmacists,43100,4700,5600,2000,12500,15800,4600,-4000,16300,BALANCE,SURPLUS
+Dietitians and nutritionists,12700,2900,1400,1000,4900,6700,0,-2000,4800,BALANCE,BALANCE
+Audiologists and speech-language pathologists,9900,2100,1300,200,3700,5100,300,-3000,2900,BALANCE,SHORTAGE
+Physiotherapists,28300,8500,3600,1400,13500,13800,2000,-5000,11200,SHORTAGE,SHORTAGE
+Occupational therapists & Other professional occupations in therapy and assessment,26800,8000,2400,1100,11700,12900,1000,-4000,9600,BALANCE,SHORTAGE
+Medical laboratory technologists & Medical laboratory technician and pathologists' assistants,49300,8300,9700,2100,20200,17200,2900,0,20300,SHORTAGE,Shortage
+Animal health technologists and veterinary technician,20200,4700,800,1000,6100,11300,200,-1000,11200,BALANCE,SURPLUS
+"Respiratory therapists, clinical perfusionists and cardiopulmonary technologists; Medical radiation technologists & Medical sonographers",45300,10000,6700,2100,19300,17100,1000,0,18800,SHORTAGE,Shortage
+"Cardiology technologists and electrophysiological diagnostic technologists, n.e.c. & Other medical technologists and technician (except dental health)",57100,9600,8400,2400,20200,18700,4400,-2000,21500,SHORTAGE,Shortage
+Technical occupations in dental health care,35500,4700,6700,1700,12900,12500,2000,1000,15300,BALANCE,BALANCE
+Opticians,10700,1900,3000,1000,5800,3000,0,1000,5000,BALANCE,SHORTAGE
+Practitioners of natural healing; Massage therapists & Other technical occupations in therapy and assessment,60300,14000,11000,3400,28600,15700,4000,1000,21000,BALANCE,SHORTAGE
+Licensed practical nurses,79300,14500,15500,3700,33500,25700,6800,-4000,28100,SHORTAGE,SHORTAGE
+Paramedical occupations,27900,4200,3000,1000,8300,11400,0,-3000,8700,BALANCE,BALANCE
+Dental assistants,31300,5300,4100,1600,11100,14400,2000,-3000,13700,BALANCE,BALANCE
+"Nurse aides, orderlies and patient service associates & Other assisting occupations in support of health services",321000,92800,68200,17400,178500,66100,46200,70000,182700,SHORTAGE,Shortage
+University professors and lecturers,64400,1900,18100,4000,24100,19600,8400,-4000,23900,BALANCE,BALANCE
+Post-secondary teaching and research assistants,76100,4500,3900,3000,11100,30800,10000,-32000,8300,BALANCE,BALANCE
+College and other vocational instructors,120400,7100,29900,7000,43700,29000,4800,8000,41600,BALANCE,BALANCE
+Secondary school teachers,144400,12200,31200,6900,50000,65600,2900,-15000,53500,BALANCE,BALANCE
+Elementary school and kindergarten teachers,322000,32900,50800,14100,97700,135700,4700,-32000,108400,BALANCE,BALANCE
+Educational counsellors,28100,4400,7500,1700,13400,9700,1000,3000,13800,BALANCE,BALANCE
+"Judges, lawyers and Quebec notaries",106600,14100,25400,6300,45900,48000,2900,-4000,46400,BALANCE,BALANCE
+Psychologists,22500,5600,8300,2000,15700,5000,1000,8000,14000,BALANCE,SHORTAGE
+Social workers & Probation and parole officers and related occupations,73600,12400,11300,3600,27200,30300,2000,-4000,28500,BALANCE,BALANCE
+"Family, marriage and other related counsellors",43600,7400,9000,2000,18800,16500,1000,1000,18200,BALANCE,BALANCE
+Professional occupations in religion,25600,1600,10900,2000,14200,6700,3000,1000,11200,BALANCE,SHORTAGE
+Employment counsellors,19100,2000,3700,1000,6500,5900,1000,-1000,6200,BALANCE,BALANCE
+"Natural and applied science policy researchers, consultants and program officers",30900,4700,5100,1600,11400,13400,1800,-4000,11000,BALANCE,BALANCE
+Economists and economic policy researchers and analysts & Business development officers and marketing researchers and consultants,43900,4800,7900,2000,15000,31800,10100,-26000,15400,BALANCE,BALANCE
+"Social policy researchers, consultants and program officers & Health policy researchers, consultants and program officers",82800,16700,15600,4200,36900,31900,4800,0,37300,BALANCE,BALANCE
+"Education policy researchers, consultants and program officers & Recreation, sports and fitness policy researchers, consultants and program officers",31400,3700,7000,1700,12200,11400,2000,-1000,12100,BALANCE,BALANCE
+"Program officers unique to government & Other professional occupations in social science, n.e.c.",17800,1800,3600,1000,6300,6500,1000,1000,7800,BALANCE,BALANCE
+Paralegal and related occupations,31600,5100,7200,2000,14200,11300,1000,1000,13600,BALANCE,BALANCE
+Social and community service workers,132200,38800,22600,6500,67800,50300,6900,7000,64200,BALANCE,BALANCE
+Early childhood educators and assistants,244500,30300,40400,11200,81600,81500,16300,-21000,76900,BALANCE,BALANCE
+Instructors of persons with disabilities,6700,1100,1000,0,2100,2800,0,-1000,2000,BALANCE,BALANCE
+Other instructors & Other religious occupations,35100,2000,9200,2000,13100,8500,3300,0,12300,BALANCE,BALANCE
+Police officers (except commissioned),77200,3900,17400,3000,24700,20000,1000,4000,24800,BALANCE,BALANCE
+Firefighters & Non-commissioned ranks of the Canadian Forces,32300,3300,7400,1300,12100,8200,0,3000,12100,BALANCE,BALANCE
+Home child care providers,35200,-5200,6000,1000,1900,13100,28900,-41000,400,BALANCE,BALANCE
+"Home support workers, housekeepers and related occupations",87500,6800,21800,5000,33800,13600,22000,-1000,35000,BALANCE,BALANCE
+Elementary and secondary school teacher assistants,98200,11800,23000,5500,40200,17800,7300,16000,41500,BALANCE,BALANCE
+Legal and public protection support occupations,36100,3500,6700,2000,11700,10100,1000,1000,11700,BALANCE,BALANCE
+"Librarians, archivists, conservators and curators",16700,900,3700,1000,5400,6100,1000,-1000,5600,BALANCE,BALANCE
+Authors and writers; Editors & Journalists,54400,200,12000,3000,15700,21500,3200,-6000,18400,BALANCE,BALANCE
+"Translators, terminologists and interpreters",19000,1100,5600,1000,8100,5800,2900,0,8300,BALANCE,BALANCE
+"Producers, directors, choreographers and related occupations & Conductors, composers and arrangers",35300,3800,5500,2000,11400,12400,1900,-3000,11500,BALANCE,BALANCE
+"Musicians and singers; Dancers; Actors and comedians & Painters, sculptors and other visual artists",75100,7000,15800,4800,27400,20600,5200,-1000,24700,BALANCE,BALANCE
+"Technical occupations in libraries, public archives, museums and art galleries",13700,1100,3000,1000,4600,7200,400,-3000,5200,SURPLUS,SURPLUS
+Photographers,20900,2500,2100,1000,5700,6000,1000,-1000,6300,BALANCE,BALANCE
+"Film/video camera operators; Graphic arts technician; Broadcast technician; Audio/video recording technician; Other tech. / co-ord. occupations in motion picture, broadcasting, arts & Support occupations in motion picture, broadcasting, photography and the performing arts",45400,4200,4300,2000,10700,17900,4000,-9000,13200,BALANCE,BALANCE
+"Announcers and other performers, n.e.c.",13400,1600,1700,1000,4000,3700,1000,0,4600,BALANCE,BALANCE
+Graphic designers and illustrators,68200,9000,9300,3100,21600,31800,6700,-15000,23600,SHORTAGE,Shortage
+Interior designers and interior decorators,29800,3400,6900,2000,12000,8700,2000,2000,12500,SHORTAGE,Shortage
+"Theatre, fashion, exhibit and other creative designers & Artisans and craftspersons; Patternmakers - textile, leather and fur products",22200,1500,6000,1800,9200,6100,2500,1000,9400,BALANCE,BALANCE
+"Athletes, coaches, referees and related occupations",148800,20100,11000,5900,37300,54000,6800,-21000,39700,BALANCE,BALANCE
+Retail sales supervisors,249000,24500,42900,11400,78800,51900,6300,25000,83300,BALANCE,BALANCE
+Technical sales specialists - wholesale trade,144000,18900,26500,7500,52700,31200,5800,19000,56000,BALANCE,BALANCE
+Retail and wholesale buyers,29700,3300,7100,2000,12500,7800,4000,2000,13300,BALANCE,BALANCE
+Insurance agents and brokers,76700,9400,19200,4700,33100,17900,4400,16000,37800,BALANCE,BALANCE
+Real estate agents and salespersons,108300,14900,36100,7400,58400,15900,3500,40000,59000,BALANCE,BALANCE
+Financial sales representatives,53500,5100,8600,2200,15900,22200,8700,-14000,16900,BALANCE,BALANCE
+Food service supervisors,75400,12700,6100,3000,21500,22400,10400,-13000,19900,BALANCE,BALANCE
+"Executive housekeepers & Accommodation, travel, tourism and related services supervisors; Customer and information services supervisors; Cleaning supervisors; Other services supervisors",121400,16400,31700,6400,54600,21700,4800,30000,56700,BALANCE,BALANCE
+Chefs,59800,12900,8100,2800,23800,19400,15100,-10000,24400,BALANCE,BALANCE
+Cooks,185800,6400,28700,8000,43400,58900,39500,-54000,44800,BALANCE,BALANCE
+"Butchers, meat cutters and fishmongers - retail and wholesale",22900,900,6000,1000,8100,6000,2600,-1000,7700,BALANCE,BALANCE
+Bakers,34800,2900,5900,1800,10300,12200,9400,-11000,10300,BALANCE,BALANCE
+Hairstylists and barbers,102100,11000,9400,5300,25900,35200,6800,-12000,30500,BALANCE,BALANCE
+"Tailors, dressmakers, furriers and milliners & Shoe repairers and shoemakers; Jewellers, jewellery and watch repairers and related occupations; Upholsterers; Funeral directors and embalmers",30500,-900,4500,2000,5700,5400,3800,-3000,6100,BALANCE,BALANCE
+Sales and account representatives - wholesale trade (non-technical),248700,21400,63900,13800,98900,59800,5600,32000,97300,BALANCE,BALANCE
+Retail salespersons,566700,16600,84100,25600,126500,181800,52100,-117000,116900,BALANCE,BALANCE
+Maîtres d'hôtel and hosts/hostesses,60500,12200,3000,2100,17200,21000,1900,-4000,18200,BALANCE,BALANCE
+Bartenders,38500,200,2600,1000,4000,17000,2000,-14000,4600,BALANCE,BALANCE
+Food and beverage servers,201600,19700,11700,7800,39400,81900,24700,-68000,38800,BALANCE,BALANCE
+Travel counsellors,17300,-3900,4000,1000,1000,6700,2000,-9000,200,BALANCE,BALANCE
+Pursers and flight attendants,18600,3600,2100,1000,7000,5100,1000,1000,6400,BALANCE,BALANCE
+"Airline ticket and service agents & Ground and water transport ticket agents, cargo service representatives and related clerks",20000,0,4900,1000,5600,4000,2000,0,5500,BALANCE,BALANCE
+Hotel front desk clerks,19500,1500,3000,1000,5500,11200,4500,-10000,5800,BALANCE,BALANCE
+Tourism and amusement services occupations,16800,300,3000,1000,4100,4200,2000,-3000,3000,BALANCE,BALANCE
+Security guards and related security service occupations,104900,10400,26200,6700,43300,33000,16000,-4000,45200,BALANCE,BALANCE
+Customer services representatives - financial institutions,74700,-6300,14500,3000,11200,36000,8900,-34000,10500,BALANCE,BALANCE
+Other customer and information services representatives,168700,21400,31200,7700,60400,61800,21800,-8000,75500,BALANCE,BALANCE
+"Image, social and other personal consultants; Pet groomers and animal care workers & Other personal service occupations",37800,2500,5100,2000,9600,12700,1900,-5000,9400,BALANCE,BALANCE
+"Estheticians, electrologists and related occupations",55900,9800,3800,2200,15900,18400,8300,-11000,15800,BALANCE,BALANCE
+Cashiers,336300,27300,44000,14400,85600,107800,38100,-52000,93900,BALANCE,BALANCE
+Service station attendants,11900,-500,1600,700,1500,4600,1000,-4000,1400,BALANCE,BALANCE
+"Store shelf stockers, clerks and order fillers",217500,20500,29500,10300,60100,56700,17600,-7000,66900,BALANCE,BALANCE
+Other sales related occupations,36700,3600,9500,2000,15100,11900,3700,1000,16800,BALANCE,BALANCE
+"Food counter attendants, kitchen helpers and related support occupations",386700,46200,36800,15500,98500,111700,75900,-59000,128200,BALANCE,BALANCE
+"Support occupations in accommodation, travel and amusement services",52100,5900,5100,2000,13600,17700,2000,-5000,14400,BALANCE,BALANCE
+Light duty cleaners,245900,29600,64300,14800,108900,31300,47400,30000,108700,BALANCE,BALANCE
+Specialized cleaners,43500,4800,6700,2100,13500,11500,4900,-3000,13900,BALANCE,BALANCE
+"Janitors, caretakers and building superintendents",187300,6400,62800,12000,81000,22600,19100,34000,76300,BALANCE,BALANCE
+"Other service support and related occupations, n.e.c.",47400,1000,13000,3000,16800,9500,5500,2000,16900,BALANCE,BALANCE
+"Contractors and supervisors, machining, metal forming, shaping and erecting trades and related occupations",17000,1600,3500,1000,6100,2000,1000,4000,6000,BALANCE,BALANCE
+"Contractors and supervisors, electrical trades and telecommunications occupations",37800,2600,8100,2000,12400,4000,1000,8000,13000,BALANCE,BALANCE
+"Contractors and supervisors, pipefitting trades",16900,700,3000,1000,4500,1700,0,4000,5000,BALANCE,BALANCE
+"Contractors and supervisors, carpentry trades",29100,2900,4700,1000,8800,5800,1000,2000,8700,BALANCE,BALANCE
+"Contractors and supervisors, other construction trades, installers, repairers and servicers",66000,3200,15700,3300,22400,11400,3000,5000,20100,BALANCE,BALANCE
+Machinists and machining and tooling inspectors & Tool and die makers,46800,2900,12000,2200,17400,9400,3500,6000,18500,BALANCE,BALANCE
+Sheet metal workers; Boilermakers; Structural metal and platework fabricators and fitters & Ironworkers,43200,2900,6200,2000,11000,14500,2400,-6000,11200,BALANCE,BALANCE
+Welders and related machine operators,87900,3800,15400,4000,23200,36000,9400,-20000,25000,SHORTAGE,Shortage
+Electricians (except industrial and power system),93400,6600,12800,4000,23300,46200,4900,-31000,20100,BALANCE,BALANCE
+Industrial electricians & Power system electricians,37300,2200,8500,2000,12500,8100,2000,3000,12800,BALANCE,BALANCE
+Electrical power line and cable workers & Telecommunications line and cable workers,28500,2000,3800,1000,6800,9200,1500,-3000,7700,BALANCE,BALANCE
+Telecommunications installation and repair workers & Cable television service and maintenance technician,27400,800,4200,1000,6500,8300,3000,-4000,7500,BALANCE,BALANCE
+Plumbers,44200,1700,5700,2000,9300,22100,3000,-16000,9100,BALANCE,BALANCE
+"Steamfitters, pipefitters and sprinkler system installers & Gas fitters",31400,1300,3900,1000,6600,11300,2000,-6000,7300,BALANCE,BALANCE
+Carpenters,126500,-1700,20000,5100,23400,46200,10900,-33000,24200,BALANCE,BALANCE
+Cabinetmakers,4700,-400,2000,0,1600,3000,2000,-2000,3300,BALANCE,SURPLUS
+Bricklayers,16800,1000,2000,1000,4100,5400,1800,0,7500,BALANCE,SURPLUS
+Concrete finishers & Tilesetters,22400,1600,3800,1000,6400,5000,3300,-1000,7700,BALANCE,BALANCE
+"Plasterers, drywall installers and finishers and lathers",29400,-800,4200,1200,4600,7000,3900,-6000,4800,BALANCE,BALANCE
+Roofers and shinglers,22600,2200,2000,1000,5300,6200,2300,0,8400,BALANCE,SURPLUS
+Glaziers & Insulators,14100,0,1100,1000,1700,5000,2000,-5000,2400,SURPLUS,SURPLUS
+Painters and decorators (except interior decorators),39800,1500,8100,2000,11800,9100,6900,-6000,10200,BALANCE,BALANCE
+Floor covering installers,12600,500,2000,1000,3300,3000,2000,-1000,3500,BALANCE,BALANCE
+"Contractors and supervisors, mechanic trades & Supervisors, printing and related occupations",76100,4700,22700,4000,31800,7600,1000,23000,31600,BALANCE,BALANCE
+"Contractors and supervisors, heavy equipment operator crews",52300,3400,11900,3000,17900,5200,1000,15000,22000,BALANCE,BALANCE
+"Supervisors, railway transport operations & Supervisors, motor transport and other ground transit operators",46900,4600,14300,3000,21600,4000,0,15000,19000,BALANCE,BALANCE
+Construction millwrights and industrial mechanics,90400,3700,25900,4700,34600,16000,2400,18000,36500,SHORTAGE,Shortage
+Heavy-duty equipment mechanics,70200,7000,13700,3200,24100,20900,1200,4000,25900,SHORTAGE,Shortage
+Refrigeration and air conditioning mechanics; machine fitters & Elevator constructors and mechanics,38000,4000,6800,2000,12600,11100,1000,1000,13400,BALANCE,BALANCE
+Railway carmen/women & Aircraft mechanics and aircraft inspectors,14000,-1200,2900,1000,2400,4000,1000,-2000,3000,BALANCE,BALANCE
+"Automotive service technician, truck and bus mechanics and mechanical repairers",126200,7600,25500,6000,39100,39300,9800,-7000,41600,BALANCE,BALANCE
+Motor vehicle body repairers,30700,300,8800,1000,10500,7900,1800,2000,11100,BALANCE,BALANCE
+Other mechanics and related repairers,32600,1400,5000,1900,8000,8000,1500,-1000,8800,BALANCE,BALANCE
+Train crew operating occupations,12500,-1000,2000,500,1500,2700,0,0,3000,BALANCE,BALANCE
+"Crane operators, drillers and blasters",20200,1100,4000,1000,6200,4000,900,3000,7000,BALANCE,BALANCE
+"Printing press operators and other trades and related occupations, n.e",23600,-1200,4800,1000,5000,4300,1800,0,5900,BALANCE,BALANCE
+Residential and commercial installers and servicers,52100,2400,8700,2900,13500,13500,4300,-3000,15100,BALANCE,BALANCE
+"Waterworks and gas maintenance workers; Pest controllers and fumigators & Other installers, repairers and servicers",24400,2800,5800,1800,10000,4700,1600,5000,11000,BALANCE,BALANCE
+Longshore workers and material handlers,211700,10700,40800,9900,61600,46400,26700,-2000,70400,BALANCE,BALANCE
+Transport truck drivers,317700,29500,71300,19100,120000,34300,29300,33000,96500,BALANCE,SHORTAGE
+"Bus drivers, subway operators and other transit operators",104400,9600,36700,8300,54300,4300,3900,47000,55100,BALANCE,BALANCE
+Taxi and limousine drivers and chauffeurs,63900,5800,17900,4000,28000,4600,8900,16000,29100,BALANCE,BALANCE
+Delivery and courier service drivers,72700,7100,15600,4000,26800,12400,7600,8000,28300,BALANCE,BALANCE
+Heavy equipment operators(except crane),80800,6600,15000,4900,26200,16300,2000,10000,28100,BALANCE,BALANCE
+Public works maintenance equipment operators and related workers,31600,4100,4700,2000,10600,4500,800,4000,8800,BALANCE,BALANCE
+Other transport equipment operators and related maintenance workers,33700,1800,6900,1500,10100,13000,3800,-8000,8600,BALANCE,BALANCE
+Trades helpers and labourers,131600,7200,18300,5900,31500,52700,19700,-41000,31800,BALANCE,BALANCE
+"Public works and other labourers, n.e.c.",29800,1800,6700,1000,9900,7100,1800,1000,10000,BALANCE,BALANCE
+"Supervisors, logging and forestry",7200,-200,1000,0,800,1000,0,0,1000,BALANCE,BALANCE
+"Contractors and supervisors, mining, oil and gas",28500,1500,6000,1000,8900,3500,0,4000,8000,BALANCE,BALANCE
+Underground production and development miners,26400,1600,5000,1000,8100,4900,0,4000,9000,BALANCE,BALANCE
+"Oil and gas well drillers, servicers, testers and related workers",33400,4300,6000,1900,12100,6000,0,7000,13200,BALANCE,BALANCE
+Logging machinary operators,11700,-200,3400,1000,4000,2000,0,2000,4000,BALANCE,BALANCE
+"Agricultural service contractors, farm supervisors and specialized livestock workers & Contractors and supervisors, landscaping, grounds maintenance and horticulture services",43400,4500,4700,2000,11500,10200,1200,0,11400,BALANCE,BALANCE
+Fishing vessel masters and fishermen/women,11300,-2800,3000,1000,1100,1000,0,1000,2200,SURPLUS,SURPLUS
+Mine service workers and operatorsin oil and gas drilling,11400,-100,1800,300,1800,5000,0,-2000,3300,BALANCE,SURPLUS
+Logging and forestry workers,8500,-800,2800,900,2700,3300,0,-2000,2000,BALANCE,BALANCE
+General farm workers,80700,2600,8300,4000,15000,23600,5800,-12000,17000,BALANCE,BALANCE
+Nursery and greenhouse workers,16200,-300,1700,1000,1800,3700,1800,-2000,3500,BALANCE,SURPLUS
+Other workers in fishing and trapping and hunting occupations,4100,-1000,1000,0,0,1000,0,0,1000,SURPLUS,SURPLUS
+Harvesting labourers; Aquaculture and marine harvest labourers & Logging and forestry labourers,11200,-400,2000,1000,2500,4600,2700,-5000,2000,BALANCE,BALANCE
+Landscaping and grounds maintenance labourers,78500,7500,9800,3900,21100,34800,3200,-16000,21600,BALANCE,BALANCE
+"Mine labourers & Oil and gas drilling, servicing and related labourers",10000,500,800,0,1500,4800,0,-2000,2700,BALANCE,SURPLUS
+"Supervisors, mineral and metal processing & Supervisors, petroleum, gas and chemical processing and utilities",32100,3900,8700,1900,14000,4600,1000,10000,16000,BALANCE,BALANCE
+"Supervisors, food, beverage and related products processing",26000,1600,5900,1000,8600,3000,2000,4000,9800,BALANCE,BALANCE
+"Supervisors, plastic and rubber products manufacturing; Supervisors, forest products processing & Supervisors, textile, fabric, fur and leather products processing and manufacturing",30200,0,10200,2000,12100,3000,1000,9000,12400,BALANCE,BALANCE
+"Supervisors, assembly and fabrication",59400,4500,19500,3600,27500,6000,1000,19000,26000,BALANCE,BALANCE
+Central control and process operatorsin processing and manufacturing,18800,700,3200,1000,4500,4800,1000,0,6000,BALANCE,BALANCE
+Utilities equipment operators and controllers,34200,1700,9500,1900,12700,9100,1000,4000,13800,BALANCE,BALANCE
+machine operators and related workers in mineral and metal products pr,90000,6800,20900,4600,32200,15900,7200,13000,36100,BALANCE,BALANCE
+"machine operators and related workers in chemical, plastic and rubber",47900,3700,11900,2000,18100,6700,5800,5000,17200,BALANCE,BALANCE
+Sawmill machine operators; Other wood processing machine operators; Lumber graders and other wood processing inspectors and graders & Woodworking machine operators,26300,-1400,8900,1100,9000,4000,2000,3000,9000,BALANCE,BALANCE
+Pulp mill machine operators; Papermaking and finishing machine operators& Paper converting machine operators,14400,-2000,3900,1000,2700,2000,1000,0,3000,BALANCE,BALANCE
+"Textile fibre and yarn, hide and pelt processing machine operators and workers; Weavers, knitters and other fabric making occupations; Fabric, fur and leather cutters & Inspectors and graders, textile, fabric, fur and leather products manufacturing",6900,-700,2100,100,2200,2000,1900,-2000,2000,BALANCE,BALANCE
+Industrial sewing machine operators,21700,-100,6800,1000,7900,1000,3000,4000,7900,BALANCE,BALANCE
+"Process control and machine operators, food, beverage and related products processing & Testers and graders, food, beverage and related products processing",64800,2800,13000,3000,18800,12500,8900,-3000,18300,BALANCE,BALANCE
+"Industrial butchers and meat cutters, poultry preparers and related workers",22400,1700,4100,1000,7300,2400,6800,-2000,7600,SHORTAGE,Shortage
+Fish and seafood plant workers,4100,0,1800,0,2000,1000,1000,-1000,0,BALANCE,SHORTAGE
+Printing equipment operators and related occupations,16700,-1800,3600,1000,2900,3000,2000,-2000,2400,BALANCE,BALANCE
+"Aircraft assemblers and aircraft assembly inspectors; Motor vehicle assemblers, inspectors and testers & Mechanical assemblers and inspectors",56900,3500,11400,3000,17700,10200,9300,-1000,18700,BALANCE,BALANCE
+"Electronics assemblers, fabricators, inspectors and testers",20700,800,5800,1000,7700,3500,3000,2000,8800,BALANCE,BALANCE
+"Assemblers and inspectors, electrical appliance, apparatus and equipment manufacturing & Assemblers, fabricators and inspectors, industrial electrical motors and transformers",16900,1000,4000,1000,6200,3000,2700,2000,7000,BALANCE,BALANCE
+"Boat assemblers and inspectors; Plastic products assemblers, finishers and inspectors; Industrial painters, coaters and metal finishing process operators& Other products assemblers, finishers and inspectors",56500,5200,16200,3000,24700,10600,8600,12000,30900,BALANCE,SURPLUS
+Furniture and fixture assemblers and inspectors;  Other wood products assemblers and inspectors & Furniture finishers and refinishers,47600,1900,10600,2700,14800,6000,5400,6000,17000,BALANCE,BALANCE
+Labourers in mineral and metal processing & Labourers in metal fabrication,29500,3100,6100,1300,10600,7300,3000,2000,12300,BALANCE,BALANCE
+Labourers in chemical products processing and utilities & Labourers in rubber and plastic products manufacturing,16300,1400,2700,1000,5000,4000,3000,-2000,4700,BALANCE,BALANCE
+"Labourers in wood, pulp and paper processing",21500,-1000,4500,1000,4400,5400,2000,-2000,4900,BALANCE,BALANCE
+"Labourers in textile processing & Other labourers in processing, manufacturing and utilities",28200,-2500,6100,1400,4900,8900,22000,-27000,4200,SURPLUS,SURPLUS
+"Labourers in food, beverage and related products processing & Labourers in fish and seafood processing",51500,2200,9400,2900,14200,10700,26700,-22000,14900,BALANCE,BALANCE
